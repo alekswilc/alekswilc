@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **nodejs, lua**
 
-- 📫 How to reach me **Phantum#2145**
+- 📫 How to reach me **Phantum#0666**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
