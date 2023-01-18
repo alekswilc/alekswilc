@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/phantumf/phantumf/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/phantumf/phantumf/output/snake.svg" alt="Snake animation" />
 
 ###
