@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on Internal<br>🌱 I’m currently learning Scala, Rust<br>⚡ Fun fact: I don't like eslint and prettier</p>
+<h3 align="center">🔭 I’m currently working on Internal<br>🌱 I’m currently learning Scala, Rust<br>⚡ Fun fact: I don't like eslint and prettier</h3>
 
 ###
 
