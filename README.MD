@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="center">🔭 I’m currently working on Internal<br>🌱 I’m currently learning Scala, Rust<br>⚡ Fun fact: I like strict typing</h3>
+<h3 align="center">🔭 I’m currently working on Internal<br>🌱 I’m currently learning Scala, Rust<br>⚡ Fun fact: I like strict typing< and use it in main projects./h3>
 
 ###
 
