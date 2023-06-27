@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <a href='https://s.phantum.dev/buy-internal'>
+  <a href='https://phant.click/buy-internal'>
       <img src="https://img.shields.io/static/v1?message=AC&label=Internal&color=lightgrey&labelColor=&style=for-the-badgee" height="40" />
   </a>
   <a href='https://dash.phantum.dev/'>
