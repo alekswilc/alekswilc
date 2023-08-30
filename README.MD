@@ -28,20 +28,16 @@
 
 ###
 
-<h3 align="center">🔭 I’m currently working on Internal<br>🌱 I’m currently learning Scala, Rust<br>⚡ Fun fact: I like strict typing< and use it in main projects./h3>
-
-###
-
-<h1 align="center">My projects</h1>
+<h3 align="center">🌱 I’m currently learning Scala, Rust<br>⚡ Fun fact: I like strict typing and use it in main projects.</h3>
 
 ###
 
 <div align="center">
-  <a href='https://phant.click/buy-internal'>
-      <img src="https://img.shields.io/static/v1?message=AC&label=Internal&color=lightgrey&labelColor=&style=for-the-badgee" height="40" />
+  <a href='https://status.alekswilc.dev/'>
+      <img src="https://img.shields.io/static/v1?message=Page&label=Status&color=lightgrey&labelColor=&style=for-the-badgee" height="40" />
   </a>
-  <a href='https://dash.phantum.dev/'>
-      <img src="https://img.shields.io/static/v1?message=Dashboard&label=Phantum&color=lightgrey&labelColor=&style=for-the-badgee" height="40" />
+  <a href='https://alekswilc.dev/'>
+      <img src="https://img.shields.io/static/v1?message=Web&label=Aleks&color=lightgrey&labelColor=&style=for-the-badgee" height="40" />
   </a>
 </div>
 
