@@ -36,9 +36,6 @@
   <a href='https://alekswilc.dev/'>
       <img src="https://img.shields.io/static/v1?message=Web&label=Aleks&color=lightgrey&labelColor=&style=for-the-badgee" height="40" />
   </a>
-  <a href='https://status.alekswilc.dev/'>
-      <img src="https://img.shields.io/static/v1?message=Page&label=Status&color=lightgrey&labelColor=&style=for-the-badgee" height="40" />
-  </a>
 </div>
 
 ###
