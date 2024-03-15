@@ -21,19 +21,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo"  />
 </div>
 
 ###
 
-<h3 align="center">🌱 I’m currently learning Scala, Rust<br>⚡ Fun fact: I like strict typing and use it in main projects.</h3>
+<h3 align="center">🌱 I’m currently learning Ruby, Rust</h3>
 
 ###
 
 <div align="center">
-  <a href='https://alekswilc.dev/'>
+  <a href='https://www.alekswilc.dev/'>
       <img src="https://img.shields.io/static/v1?message=Web&label=Aleks&color=lightgrey&labelColor=&style=for-the-badgee" height="40" />
   </a>
 </div>
