@@ -1,1 +1,1 @@
-;see https://git.alekswilc.dev/
+;see https://git.alekswilc.dev/alekswilc
